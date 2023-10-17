@@ -1,0 +1,17 @@
+# ignore actual data but keep the downloaders.
+/data/*
+!/data/data_downloaders.sh
+
+# ignore temporary data that is uploaded to hub for LLM
+/temp_data/*
+
+# ignore actual models but keep the downloaders.
+/models/*
+!/models/model_downloaders/
+
+# ignore cache files
+methods/utils/__pycache__/
+
+
+# ignore results
+/results/*
