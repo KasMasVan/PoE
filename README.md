@@ -1,6 +1,6 @@
 # Process of Elimination for Multiple Choice Reasoning
 
-The official implementation of our paper *Process of Elimination for Multiple Choice Reasoning*.
+The official implementation of our EMNLP 2023 paper [*Process of Elimination for Multiple Choice Reasoning*](https://aclanthology.org/2023.emnlp-main.273/).
 
 
 ## Prerequisites
